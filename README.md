@@ -1,4 +1,4 @@
-# Desafio 02 - Conceitos NodeJS!
+# GoStack Desafio 02 - Conceitos NodeJS.
 
 Desenvolvimento de uma simples API para fixar os conceitos de NodeJS aprendido no bootcamp GoStack. A API tem como intuito gerenciar um repositórios permitindo: criar, listar, atualizar, remover e interagir com likes
 
